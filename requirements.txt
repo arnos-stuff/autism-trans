@@ -1,0 +1,7 @@
+rich==12.6.0
+numpy==1.23.5
+sympy==1.11.1
+numba==0.56.4
+pandas==1.5.2
+seaborn==0.12.1
+scipy==1.9.3
